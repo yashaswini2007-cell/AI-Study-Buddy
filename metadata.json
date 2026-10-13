@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Buddy",
+  "description": "AI-powered college study assistant with topic explanations, smart notes, viva prep, quizzes, programming helper, and study planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
